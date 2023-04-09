@@ -1,0 +1,11 @@
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\jonat\OneDrive\Documentos\Alura\Casa_Construtor\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
